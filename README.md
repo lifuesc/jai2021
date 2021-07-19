@@ -7,7 +7,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/lifuesc/jai2021/">
+    <img src="./img/logo2.png" alt="Logo" width="100">
     <img src="./img/logo.png" alt="Logo" width="400">
+    <br/>
+    <img src="./img/banner.png" alt="Logo" width="100%">
   </a>
 
   <h2 align="center">Blockchain e Contratos Inteligentes para Aplicações em IoT, uma Abordagem Prática</h2>
