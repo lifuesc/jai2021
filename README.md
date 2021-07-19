@@ -20,8 +20,6 @@
 ### Autores
 
 - Jauberth W. Abijaude (UFBA, UESC)
-- Aprígio Bezerra (UESC)
-- Rita Barretto (UFBA)
 - Henrique Serra (UESC)
 - Pérciles de Lima Sobreira (University of Quebec Outaouais, Cégep de Saint-Hyacinthe)
 - Fabíola Greve (UFBA)
