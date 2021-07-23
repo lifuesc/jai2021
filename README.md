@@ -40,6 +40,7 @@ A Internet das Coisas agrega dispositivos capazes de capturar informações e in
    - [API](https://github.com/lifuesc/jai2021/tree/main/api)
    - [Deploy ](https://github.com/lifuesc/jai2021/tree/main/deploy)
    - [DApp ReactJs](https://github.com/lifuesc/jai2021/tree/main/frontend)
+3. [Slides](https://github.com/lifuesc/jai2021/tree/main/minicurso%20JAI2021.pdf)
 
 [contributors-shield]: https://img.shields.io/github/contributors/lifuesc/jai2021.svg?style=for-the-badge
 [contributors-url]: https://github.com/lifuesc/jai2021/graphs/contributors
